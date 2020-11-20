@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Drink Info" max_length="40" name="x_357482_drinks_drink_info" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Drink Name" max_length="40" name="drink_name" type="string"/>
+        <element label="Nutritional Info" max_length="40" name="nutritional_info" type="string"/>
     </element>
 </database>
